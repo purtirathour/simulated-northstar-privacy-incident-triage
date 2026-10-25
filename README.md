@@ -1,4 +1,3 @@
-# Simulated-northstar-privacy-incident-triage
 # Northstar | Privacy Incident Triage & Document Review
 
 Independent Portfolio Project | Microsoft Excel | Data Privacy & Compliance
