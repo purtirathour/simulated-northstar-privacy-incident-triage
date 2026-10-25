@@ -4,11 +4,11 @@ Independent Portfolio Project | Microsoft Excel | Data Privacy & Compliance
 
 ## Project Overview
 
-- This self-directed project simulates a potential employee-data disclosure at Northstar Solutions Pvt. Ltd., a fictional organisation.
+This self-directed project simulates a potential employee-data disclosure at Northstar Solutions Pvt. Ltd., a fictional organisation.
 
-- I developed an Excel-based document review framework to classify information, identify potential privacy risks, assess sharing authorisation, document escalations and perform quality-control checks.
+I developed an Excel-based document review framework to classify information, identify potential privacy risks, assess sharing authorisation, document escalations and perform quality-control checks.
 
-- All documents and findings are synthetic. This is not a real client engagement or forensic investigation.
+All documents and findings are synthetic. This is not a real client engagement or forensic investigation.
 
 ## Project Objective
 
